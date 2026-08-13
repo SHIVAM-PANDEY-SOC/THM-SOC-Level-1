@@ -356,7 +356,8 @@ Completion certificates earned throughout this learning path are available insid
 
 Achievement badges earned from TryHackMe are available inside the **Awarded Badges** directory.
 
----![Uploading COMPLETE BADGE IMAGE PART 2.png…]()
+<img width="1039" height="855" alt="COMPLETE BADGE IMAGE PART 2" src="https://github.com/user-attachments/assets/6634c8e4-1e4b-4d7f-b6c2-3f3ee4cc9749" />
+
 
 
 # Screenshots
